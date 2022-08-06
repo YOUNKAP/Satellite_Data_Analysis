@@ -8,5 +8,8 @@ The notebooks to download Planet NICFI, Sentinel 2 Level 2A and Sentinel 2 Level
 ## Preprocessing 
 The read satellite data, to retrieve their geographic metadata, to transform their coordinates, to crop the images, to merge multiple images and to save the data in other formats ill be posted here.
 
+## Index
+The notebooks to calculate index from satellite images will be hosted here
+
 
 
