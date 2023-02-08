@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fkkn_fkp3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "FKP3 N'GAOUNDERE FALAISE" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 13.2, 7.633333333333333 ], [ 13.533333333333333, 7.7 ], [ 13.55, 7.55 ], [ 13.366666666666667, 7.516666666666667 ], [ 13.2, 7.633333333333333 ] ] ] ] } }
+]
+}

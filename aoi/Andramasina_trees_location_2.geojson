@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Andramasina" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 47.55146, -19.15952 ], [ 47.5583, -19.139 ], [ 47.56617, -19.13592 ], [ 47.58361, -19.13934 ], [ 47.59661, -19.16191 ], [ 47.59387, -19.19304 ], [ 47.61918, -19.22245 ], [ 47.60721, -19.24331 ], [ 47.5648, -19.19372 ], [ 47.55146, -19.15952 ] ] ] } }
+]
+}
